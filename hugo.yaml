@@ -1,0 +1,57 @@
+baseURL: "https://YOUR_USERNAME.github.io/"
+locale: zh-cn
+title: "我的个人作品集"
+theme: PaperMod
+
+# 启用搜索
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  # 首页个人信息
+  homeInfoParams:
+    Title: "你好，我是 [你的名字]"
+    Content: >
+      这里写一段简短的自我介绍。例如：计算机专业学生，热爱 Web 开发和开源。
+
+      可以分多行写。
+
+  # 社交链接（图标列表见 https://github.com/adityatelange/hugo-PaperMod/wiki/Icons）
+  socialIcons:
+    - name: github
+      url: "https://github.com/YOUR_USERNAME"
+    - name: email
+      url: "mailto:your@email.com"
+
+  # 文章设置
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  ShowPostNavLinks: true
+
+  # 主题
+  defaultTheme: auto
+
+menu:
+  main:
+    - identifier: posts
+      name: 博客
+      url: /posts/
+      weight: 10
+    - identifier: projects
+      name: 项目
+      url: /projects/
+      weight: 20
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 30
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 40
