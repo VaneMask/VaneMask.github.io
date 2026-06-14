@@ -1,4 +1,4 @@
-baseURL: "https://YOUR_USERNAME.github.io/"
+baseURL: "https://VaneMask.github.io/"
 locale: zh-cn
 title: "我的个人作品集"
 theme: PaperMod
@@ -22,7 +22,7 @@ params:
   # 社交链接（图标列表见 https://github.com/adityatelange/hugo-PaperMod/wiki/Icons）
   socialIcons:
     - name: github
-      url: "https://github.com/YOUR_USERNAME"
+      url: "https://github.com/VaneMask"
     - name: email
       url: "mailto:your@email.com"
 

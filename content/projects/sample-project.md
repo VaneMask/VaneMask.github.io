@@ -23,5 +23,5 @@ tags:
 
 ### 链接
 
-- [GitHub 仓库](https://github.com/YOUR_USERNAME/sample-project)
-- [在线演示](https://YOUR_USERNAME.github.io/sample-project)
+- [GitHub 仓库](https://github.com/VaneMask/sample-project)
+- [在线演示](https://VaneMask.github.io/sample-project)

@@ -20,5 +20,5 @@ title: 关于我
 
 ### 联系方式
 
-- GitHub：[YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub：[VaneMask](https://github.com/VaneMask)
 - Email：your@email.com
